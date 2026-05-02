@@ -1,16 +1,42 @@
-# React + Vite
+# ⚡ DecaBuild Sprint 2026: Master Log
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **10 High-Impact Projects. 24 Hours. One Engineer.**
 
-Currently, two official plugins are available:
+This repository serves as the **Command Center** and real-time tracking system for the DecaBuild Sprint—a high-intensity engineering challenge to architect, build, and deploy 10 distinct full-stack applications within a 24-hour window.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Status: In Progress](https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&logo=target)
+![Stack: Vite + React + Tailwind v4](https://img.shields.io/badge/STACK-Vite_8_|_React_19_|_Tailwind_v4-646CFF?style=for-the-badge&logo=vite)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 The Architecture
 
-## Expanding the ESLint configuration
+The Master Log is built using a bleeding-edge frontend stack, designed for maximum performance and a SOC-style (Security Operations Center) aesthetic.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Vite 8:** Next-generation frontend tooling for near-instant HMR.
+- **Tailwind CSS v4:** Utilizing the new `@theme` engine and PostCSS bridge for high-performance styling.
+- **Lucide-React:** Vector-optimized iconography for a clean, technical UI.
+- **AI-Orchestration:** Each project includes an "AI Engineer Note" detailing the specific prompts, logic hurdles, and architectural decisions made during the sprint.
+
+---
+
+## The Projects
+
+| ID  | Project       | Tech Stack                      | Status         |
+| :-- | :------------ | :------------------------------ | :------------- |
+| 01  | **RepoLens**  | Next.js, Mermaid.js, Gemini API | ✅ Complete    |
+| 02  | **AegisView** | FastAPI, Python, Scapy, React   | 🚧 In Progress |
+| 03  | _Upcoming_    | TBD                             | 🕒 Pending     |
+| 04  | _Upcoming_    | TBD                             | 🕒 Pending     |
+| ... | ...           | ...                             | ...            |
+
+---
+
+## Local Setup
+
+To view the live dashboard on your local machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/decabuild-log.git](https://github.com/your-username/decabuild-log.git)
+   ```
